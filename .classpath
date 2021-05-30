@@ -2,6 +2,10 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="/Users/haranokengo/Downloads/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25.jar" sourcepath="/var/folders/h9/s6gvp44d1yj8m1sz97qsdby80000gn/T/.org.sf.feeling.decompiler1622343586400/source/mysql-connector-java-8.0.25-sources.jar"/>
+=======
+	<classpathentry kind="lib" path="/Users/haranokengo/Desktop/apache-tomcat-9.0.46/lib/servlet-api.jar"/>
+>>>>>>> branch 'master' of https://github.com/haranokengo/java_practice.git
 	<classpathentry kind="output" path="bin"/>
 </classpath>
