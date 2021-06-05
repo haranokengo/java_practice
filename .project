@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>DB</name>
+=======
 	<name>JavaWcp</name>
+>>>>>>> branch 'master' of https://github.com/haranokengo/java_practice.git
 	<comment></comment>
 	<projects>
 	</projects>
